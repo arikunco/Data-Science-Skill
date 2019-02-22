@@ -7,7 +7,7 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 ## 1. Visualization 
 - Option 1 (Paid) : Tableau 10 A-Z Hands On Tableau: https://www.udemy.com/tableau10/
 - Option 2 (Free) : Official Training from Tableau: https://www.tableau.com/learn/training
-- Option 3 (Paid) : Analyzing and Visualizing Data with Power BI: https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0
+- Option 3 (Can be free) : Analyzing and Visualizing Data with Power BI: https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0
 - Option 4 (Free) : Official Training from Power BI: https://powerbi.microsoft.com/en-us/learning/
 
 ## 2a. Coding - SQL 
