@@ -5,10 +5,13 @@ Coding, Statistics, and Business are the important skills needed to be real Data
 Maybe you are confused, where do you start. I compile few free and paid courses/books that you can refer to. Please complete at least one from the following parts. 
 
 ## 1. Visualization 
+### 1.1 Exploratory
 - Option 1 (Paid) : Tableau 10 A-Z Hands On Tableau: https://www.udemy.com/tableau10/
 - Option 2 (Free) : Official Training from Tableau: https://www.tableau.com/learn/training
 - Option 3 (Can be free) : Analyzing and Visualizing Data with Power BI: https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0
 - Option 4 (Free) : Official Training from Power BI: https://powerbi.microsoft.com/en-us/learning/
+### 1.2 Explanatory
+- Storytelling with Data Book: http://www.storytellingwithdata.com/book
 
 ## 2a. Coding - SQL 
 - Option 1 (Free) : Intro to SQL: Querying and managing data by Khan Academy https://www.khanacademy.org/computing/computer-programming/sql
@@ -29,7 +32,8 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 - Option 3 (Free): Statistics and Probability by Khan Academy https://www.khanacademy.org/math/statistics-probability
 
 ## 4. Business Practice
-Get inspired from one of the projects listed here: https://paperswithcode.com/
+
+- Option 1 : Get inspired from one of the projects listed here: https://paperswithcode.com/
 - a. Computer Vision: https://paperswithcode.com/area/cv
 - b. Natural Language Processing: https://paperswithcode.com/area/nlp
 - c. Medical: https://paperswithcode.com/area/med
