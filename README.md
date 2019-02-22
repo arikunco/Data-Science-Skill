@@ -2,7 +2,7 @@
 
 Coding, Statistics, and Business are the important skills needed to be real Data Scientists. With additional visualization and legal skills, you will be much more complete. 
 
-Maybe you are confused, where do I start start. I compile some of the free and paid courses/books that you can refer to. Please complete at least one from the following parts. 
+Maybe you are confused, where do you start. I compile few free and paid courses/books that you can refer to. Please complete at least one from the following parts. 
 
 ## 1. Visualization 
 - Option 1 (Paid) : Tableau 10 A-Z Hands On Tableau: https://www.udemy.com/tableau10/
