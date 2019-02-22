@@ -33,7 +33,7 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 
 ## 4. Business Practice
 
-- Option 1 : Get inspired from one of the projects listed here: https://paperswithcode.com/
+- Get inspired from one of the projects listed here: https://paperswithcode.com/
 - a. Computer Vision: https://paperswithcode.com/area/cv
 - b. Natural Language Processing: https://paperswithcode.com/area/nlp
 - c. Medical: https://paperswithcode.com/area/med
