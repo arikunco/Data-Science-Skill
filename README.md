@@ -1,6 +1,6 @@
 # Data Science Skillset 
 
-Coding, Statistics, and Business are the important skills needed to be real Data Scientists. With additional visualization and legal skills, you will be getting much better results. 
+Coding, Statistics, and Business are the important skills needed to be real Data Scientists. With additional visualization and legal skills, you will be much more complete. 
 
 Maybe you are confused with how to start. I compile some of the free and paid courses/books that you can refer to. Please complete at least one from the following parts. 
 
