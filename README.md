@@ -13,16 +13,17 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 ### 1.2 Explanatory
 - Storytelling with Data Book: http://www.storytellingwithdata.com/book
 
-## 2a. Coding - SQL 
+## 2. Coding 
+### 2.1. Coding - SQL 
 - Option 1 (Free) : Intro to SQL: Querying and managing data by Khan Academy https://www.khanacademy.org/computing/computer-programming/sql
 - Option 2 (Free) : Learn SQL Relational Database by Cognitive Class https://cognitiveclass.ai/courses/learn-sql-relational-databases/
 
-## 2b. Coding - Python 
+### 2.2 Coding - Python 
 - Option 1 (Free) : Python for Data Science: https://cognitiveclass.ai/courses/python-for-data-science/
 - Option 2 (Paid) : Python for Everybody Book: https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126 
 - Option 3 (Can be free) : Python for Everybody Specialization https://www.coursera.org/specializations/python
 
-## 2c. Coding - R 
+### 2.3. Coding - R 
 - Option 1 (Free) : R For Data Science Book: https://r4ds.had.co.nz/
 - Option 2 (Can be free) : R programming: https://www.coursera.org/learn/r-programming
 
