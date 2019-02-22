@@ -19,7 +19,7 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 
 ## 2b. Coding - Python 
 - Option 1 (Free) : Python for Data Science: https://cognitiveclass.ai/courses/python-for-data-science/
-- Option 2 (Paid) : Python for Everybody Book: https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126 Chapters 1-10, Online Course Lessons 1-11, or Coursera
+- Option 2 (Paid) : Python for Everybody Book: https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126 
 - Option 3 (Can be free) : Python for Everybody Specialization https://www.coursera.org/specializations/python
 
 ## 2c. Coding - R 
