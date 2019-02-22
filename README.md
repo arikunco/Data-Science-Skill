@@ -30,11 +30,11 @@ Maybe you are confused with how to start. I compile some of the free and paid co
 
 ## 4. Business Practice
 Get inspired from one of the projects listed here: https://paperswithcode.com/
-a. Computer Vision: https://paperswithcode.com/area/cv
-b. Natural Language Processing: https://paperswithcode.com/area/nlp
-c. Medical: https://paperswithcode.com/area/med
-d. Games: https://paperswithcode.com/area/rl
-e. Music: https://paperswithcode.com/area/music 
+- a. Computer Vision: https://paperswithcode.com/area/cv
+- b. Natural Language Processing: https://paperswithcode.com/area/nlp
+- c. Medical: https://paperswithcode.com/area/med
+- d. Games: https://paperswithcode.com/area/rl
+- e. Music: https://paperswithcode.com/area/music 
 
 ## 5. Legal 
 - Option 1 (Free) : For Indonesians: Peraturan Menteri No 20 tahun 2016: https://jdih.kominfo.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016
