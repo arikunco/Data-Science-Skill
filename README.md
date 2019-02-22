@@ -37,7 +37,7 @@ Get inspired from one of the projects listed here: https://paperswithcode.com/
 - e. Music: https://paperswithcode.com/area/music 
 
 ## 5. Legal 
-- Option 1 (Free) : For Indonesians: Peraturan Menteri No 20 tahun 2016: https://jdih.kominfo.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016
+- For Indonesians (Free): Peraturan Menteri No 20 tahun 2016: https://jdih.kominfo.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016
 - For European (Free) : General Data Protection Regulation for free by Future Learn 
 https://www.futurelearn.com/courses/general-data-protection-regulation
 
