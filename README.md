@@ -43,6 +43,6 @@ Maybe you are confused, where do you start. I compile few free and paid courses/
 
 ## 5. Legal 
 - For Indonesians (Free): Peraturan Menteri No 20 tahun 2016: https://jdih.kominfo.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016
-- For European (Free) : General Data Protection Regulation for free by Future Learn 
+- For European (Free) : General Data Protection Regulation for free by University of Groningen at Future Learn Platform 
 https://www.futurelearn.com/courses/general-data-protection-regulation
 
